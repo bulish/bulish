@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bulish 🚀
 
-I am a **developer** with a passion for creating web and mobile applications. Currently, I am studying at **Mendel University in Brno** and have gained a wealth of experience working on projects with cutting-edge technologies. Here's a bit more about me:
+I am a **developer** with a passion for creating web and mobile applications. Currently, I am studying at **Mendel University in Brno**. Here's a bit more about me:
 
 ### 👨‍💻 **Work Experience:**
 - 🏢 **Asseco CE**: I worked on projects in Angular for **Czech state administration** 🏛️. This experience gave me a solid foundation in **frontend development** 🌐 and working on large scale applications.
