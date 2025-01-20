@@ -23,4 +23,4 @@ I am a **developer** with a passion for creating web and mobile applications. Cu
 
 ### 📬 **Let's Connect!**
 Feel free to check out my repositories, projects, and don't hesitate to reach out if you'd like to collaborate or learn more!  
-🌐 [LinkedIn]([your-linkedin-url](https://cz.linkedin.com/in/libuse-babickova)) | 📧 [Email](mailto:babickovalibuse@gmail.com)
+🌐 [LinkedIn]([https://cz.linkedin.com/in/libuse-babickova]) | 📧 [Email](mailto:babickovalibuse@gmail.com)
